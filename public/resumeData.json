@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Mahalakshmi L",
+    "occupation": "ReactJS Developer",
+    "description": "with 6 months of experience in Development as an intern in Verzeo. Responsible for the development, design and implementation of project during the Intership. Now looking for fulltime Job as on React Developer or Fontend developer with skills as   Javascript, ReactJS, Redux and HTML/CSS.",
+    "image": "photo.jpeg",
+    "bio": "Aim to be associated with a progressive organization that gives me scope to update my knowledge and skills in accordance with latest trends and be a part of a team that dynamically works towards the organization and gains satisfaction thereof. ",
+    "contactmessage": "Get in Touch ! ",
+    "email": "mahal191095@gmail.com",
+    "phone": "+91 8618072993",
+    "address": {
+      "street": "Konanakunte Cross,",
+      "city": "Bangalore,",
+      "state": "Karnataka",
+      "zip": "560062"
+    },
+    "notificationmesssage": "Actively looking for Job in Front-End Developer or React Developer roles.",
+    "resumedownload": "images/Mahalakshmi_L.pdf",
+    "social": [
+      {
+        "name": "email",
+        "url": "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=mahal191095@gmail.com",
+        "className": "fa fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mahalakshmi-l-445b68118/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/MahaLakshmi-L-Tech/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Personal Website",
+        "url": "https://my-resume-17021.web.app/",
+        "className": "fa fa-globe"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Major skills list in which I've good experience.",
+    "education": [
+      {
+        "school": "BE",
+        "degree": "The Oxford College of Engineering",
+        "Grade": "72%",
+        "graduated": "2017"
+      },
+      {
+        "school": "PUC",
+        "degree": "Vishwa Chethana PU college",
+        "Grade": "83.5%",
+        "graduated": "2013"
+      },
+      {
+        "school": "SSLC",
+        "degree": "Vidhatha High School",
+        "Grade": "79.33%",
+        "graduated": "2011"
+      }
+    ],
+    "work": [
+      {
+        "company": "Intern ",
+        "title": "Verzeo ",
+        "years": "01/sep/2022 - 31/12/2022",
+        "description": [
+          "Technologies worked on are :  ReactJS ,JavaScript ,Redux ,HTML ,SCSS,Bootstrap",
+          "The first few months were training on ReactJS, HTML/CSS, JavaScript and Redux.",
+          "During training 'Student Result Management System' project was crated using HTML/CSS and JavaScript",
+          "In this Project a student can view result and exam information about them.",
+          "After completion of training, worked on building a project called Regional Info using ReactJS and Redux. ",
+          "Regional Info, using this user can see the selected region onthe map and view the its information like region flag, currency, capital city and much more."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "React JS",
+        "level": "60%"
+      },
+      {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "name": "HTML",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+
+      {
+        "name": "Bootstarp",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "RegionsInfo",
+        "category": "This is a map interface Project. In this platform User can login and view the regions information like total area , total population, currency , timezone and other detials. Using this platform user can Zoom in and Zoom out the map as they need and see entire globe.",
+        "image": "AfterRegionsearch.png",
+        "url": "https://github.com/MahaLakshmi-L-Tech/RegionsInfo/",
+        "TchnologiesUsed": "ReactJS, Redux, HTML, SCSS, JavaScript, JSON, Ant Design 5.0 , mapbox."
+      },
+      {
+        "title": "Blog",
+        "category": "In this project a user can see the users and their posts details. Each post will have details and comments added to it. public can view the comment on the post also add their comments . ",
+        "image": "postsInfo.png",
+        "url": "https://github.com/MahaLakshmi-L-Tech/Postsblog/",
+        "TchnologiesUsed": "ReactJs, JavaScript, HTML/CSS"
+      },
+      {
+        "title": "Student Result Management System",
+        "category": "Using this platform, a student can search for result using Student ID and also can view score board of an entire course. Along with it they can see score board of the students where the student’s maximum marks and maximum attendance percentage will be highlighted.",
+        "image": "studentInfo.png",
+        "url": "https://github.com/MahaLakshmi-L-Tech/Student-Management-System/",
+        "TchnologiesUsed": "JavaScript, HTML/CSS"
+      },
+
+      {
+        "title": "A Tourist Guide of famous Places in India",
+        "category": "This is a minor project on travel guide of the famous places around India. in this project we have around 10 different states of India in home page. when the user selects any state, they will see the list of tourist places within that state and also information about that place and any nearby places to visit around ",
+        "image": "travelinfo.png",
+        "url": "https://github.com/MahaLakshmi-L-Tech/Travel-Guide/",
+        "TchnologiesUsed": "JavaScript, HTML/CSS"
+      }
+    ]
+  },
+  "certifications": {
+    "certifications": [
+      {
+        "courseName": "Internship Certificate",
+        "institute": "Verzeo"
+      },
+      {
+        "courseName": "Full-Stack web Development",
+        "institute": "Verzeo"
+      },
+      {
+        "courseName": "JavaScript [Basic]",
+        "institute": "HackerRank"
+      },
+
+      {
+        "courseName": "CSS",
+        "institute": "HackerRank"
+      }
+    ]
+  }
+}

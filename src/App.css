@@ -1,0 +1,24 @@
+.work_desc_icon {
+  color: black;
+}
+
+.skill-level-bar,
+.bar-expand {
+  height: 10px !important;
+}
+
+.certificationTitle {
+  font-family: "librebaskerville-italic", serif !important;
+}
+
+.text-container {
+  padding-top: 60px !important;
+}
+
+.certificateName {
+  margin: 0px !important;
+}
+
+.certificatecite {
+  padding-left: 10px !important;
+}
