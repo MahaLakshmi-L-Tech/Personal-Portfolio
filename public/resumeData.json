@@ -2,9 +2,9 @@
   "main": {
     "name": "Mahalakshmi L",
     "occupation": "ReactJS Developer",
-    "description": "with 6 months of experience in Development as an intern in Verzeo. Responsible for the development, design and implementation of project during the Intership. Now looking for fulltime Job as on React Developer or Fontend developer with skills as   Javascript, ReactJS, Redux and HTML/CSS.",
+    "description": "with 1 year of experience in Development as an Associate consultant in Athamas Technologies(Varchai private ltd). Responsible for the development, design and implementation of new or modified software products or ongoing business projects. Now looking for fulltime Job as on React Developer or Fontend developer with skills as  Javascript, ReactJS, Redux and HTML/CSS.",
     "image": "photo.jpeg",
-    "bio": "Aim to be associated with a progressive organization that gives me scope to update my knowledge and skills in accordance with latest trends and be a part of a team that dynamically works towards the organization and gains satisfaction thereof. ",
+    "bio": "Skilled and motivated front end developer with 1 experience in ReactJS, Redux , HTML, CSS, and JavaScript. Committed to delivering high quality results and working collaboratively in a friendly and dynamic environment. Knowledgeable in user interface, Web Development. Able to effectively self-learn and manage the projects with limited support, as well as collaborate in a team as one.Looking for a position to utilize my skills and abilities in an organization that offers challenge and professional growth while being resourceful,innovative and flexible.",
     "contactmessage": "Get in Touch ! ",
     "email": "mahal191095@gmail.com",
     "phone": "+91 8618072993",
@@ -63,6 +63,21 @@
       }
     ],
     "work": [
+      {
+        "company": "Associate consultant ",
+        "title": "Athamas Technologies(Varchai private  ",
+        "years": "01/april/2022 - present",
+        "description": [
+          "Worked on AI domain.",
+          "Worked on a product development which helps automating the daily taskes of a user based on requirement.",
+          "Developing and implementing highly responsive user Interface using ReactJs,Jasvascript,Redux and Custom components.",
+          "Application build and deployment to the main repository.",
+          "descussion on user story with the team and also helping team members in their queries.",
+          "Collaborating with backend developers to improve application use ablity.",
+          "Resolving the defect if any comes on the changes made.",
+          "Recived an appreciation for supporting team member."
+        ]
+      },
       {
         "company": "Intern ",
         "title": "Verzeo ",
